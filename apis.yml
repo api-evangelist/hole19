@@ -1,7 +1,25 @@
 aid: hole19
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/hole19.png
 name: Hole19
-description: Hole19 is a company surfaced as a portfolio company of seedcamp and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Hole19 (Stat Track Technologies Lda) is a golf app for iOS, Android, and smartwatches
+  used by 4.8M+ golfers across 42,000+ golf courses in 200+ countries. It provides GPS rangefinder
+  distances, digital scorecards, shot tracking, performance statistics, an Otto AI game assistant, and a
+  WHS handicap calculator, plus social features such as LivePlay live leaderboards and a social feed. The
+  company also ships CORE Golf, a practice app with structured plans and 100+ drills, and operates a
+  worldwide golf course directory, a golf glossary, and The 19th Hole magazine. The core app is free with
+  two subscription tiers, Premium and Intelligence. Hole19 does not publish a public developer API; this
+  profile captures its public web, legal, support, and llms.txt surface.
 url: https://raw.githubusercontent.com/api-evangelist/hole19/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +29,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Golf
+- Sports
+- GPS
+- Mobile App
+- Scorecard
+- Golf Courses
+- Handicap
+- Consumer
+- Fitness
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +49,23 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://hole19golf.com
+  url: https://www.hole19golf.com
+- type: Blog
+  url: https://www.hole19golf.com/the-19th-hole
+- type: Support
+  url: https://help.hole19golf.com
+- type: Pricing
+  url: https://www.hole19golf.com/premium
+- type: TermsOfService
+  url: https://www.hole19golf.com/terms
+- type: PrivacyPolicy
+  url: https://www.hole19golf.com/terms/privacy-policy
+- type: LLMsTxt
+  url: llms/hole19-llms.txt
+- type: DomainSecurity
+  url: security/hole19-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

@@ -1,0 +1,49 @@
+# Hole19 Golf
+
+> Hole19 is a golf app for iOS, Android, and smartwatches used by 4.8M+ golfers worldwide. It provides GPS rangefinder distances, digital scorecards, shot tracking, performance statistics, and a handicap calculator across 42,000+ golf courses in 200+ countries, plus social features like live leaderboards (LivePlay) and a social feed. The core app is free, with two subscription tiers: Premium and Intelligence (the most advanced tier, which includes everything in Premium).
+
+Hole19 Golf (Stat Track Technologies Lda) operates two mobile apps: **Hole19: Golf GPS & Range Finder** (on-course GPS, scoring, and stats) and **CORE Golf: Practice Drills** (structured practice plans and 100+ drills). Hole19 is also a social golf platform: golfers follow friends in a social feed, compete on live leaderboards with LivePlay, and share rounds and stats. The website also hosts a worldwide golf course directory with community reviews, a free golf handicap calculator, a golf glossary, and The 19th Hole magazine. Tagline: "However you play. Play More."
+
+## Hole19 App
+
+- [Hole19 Golf App](https://www.hole19golf.com/hole19): Overview of the free golf GPS app for iOS, Android, Apple Watch, and Wear OS
+- [Features](https://www.hole19golf.com/features): All app features at a glance
+- [GPS & Yardages](https://www.hole19golf.com/hole19/features/gps-yardages): Pinpoint GPS distances to front, middle, and back of green
+- [Shot Tracker](https://www.hole19golf.com/hole19/features/shot-tracker): Track every shot to analyse your game
+- [Statistics](https://www.hole19golf.com/hole19/features/statistics): Performance stats and strokes-gained-style insights
+- [Handicap Calculator](https://www.hole19golf.com/hole19/features/handicap-calculator): Track your handicap index in the app
+- [Otto AI](https://www.hole19golf.com/hole19/features/otto-ai): AI golf assistant with personalised game insights
+- [Club Recommendation](https://www.hole19golf.com/hole19/features/club-recommendation): Data-driven club suggestions for each shot
+- [Plays Like Distances](https://www.hole19golf.com/hole19/features/plays-like-distances): Adjusted distances for elevation and conditions
+- [Live Play](https://www.hole19golf.com/hole19/features/live-play): Live leaderboards — share rounds in real time and compete with friends and family
+- [Premium](https://www.hole19golf.com/premium): Hole19 Premium — the base subscription tier; pricing and included features
+- [Intelligence](https://www.hole19golf.com/intelligence): Hole19 Intelligence — the most advanced subscription tier, including all Premium features; pricing and details
+
+## CORE Golf App
+
+- [CORE Golf](https://www.hole19golf.com/core-golf): Practice app with structured plans and 100+ performance drills
+- [CORE Golf Premium](https://www.hole19golf.com/core-golf/premium): CORE Golf subscription details
+
+## Golf Courses Directory
+
+- [Golf Course Finder](https://www.hole19golf.com/courses): Searchable directory of 42,000+ golf courses in 200+ countries, with course details, scorecards, and community reviews; browsable by country, region, and city (e.g. `/courses/countries/united-states`), with individual course pages at `/courses/<course-slug>`
+
+## Free Golf Tools
+
+- [Golf Handicap Calculator](https://www.hole19golf.com/calculate-handicap): Free WHS handicap index calculator
+- [Golf Glossary](https://www.hole19golf.com/glossary): Definitions of golf terms
+- [The 19th Hole](https://www.hole19golf.com/the-19th-hole): Golf magazine — news, course guides, game improvement, and gear reviews
+
+## Company
+
+- [About Us](https://www.hole19golf.com/about-us): Company story and team
+- [Contact](https://www.hole19golf.com/contact): How to reach Hole19
+- [Help Center](https://help.hole19golf.com): Product support and FAQs
+- [Advertise](https://www.hole19golf.com/advertise): Advertising with Hole19
+
+## Optional
+
+- [Careers](https://www.hole19golf.com/careers): Open positions
+- [Press Kit](https://www.hole19golf.com/press-kit): Logos and media assets
+- [Terms of Service](https://www.hole19golf.com/terms): Legal terms
+- [Privacy Policy](https://www.hole19golf.com/terms/privacy-policy): Privacy policy
